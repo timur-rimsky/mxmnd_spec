@@ -1,0 +1,13 @@
+HTTP/1.1 200 OK
+Access-Control-Allow-Origin: *
+Content-Type: application/json; charset=ISO-8859-1
+X-Cloud-Trace-Context: 9907019689a749f99a119019a7e4f150
+Date: Thu, 11 Oct 2018 11:26:11 GMT
+Server: Google Frontend
+Content-Length: 100
+
+{
+   "time": "11:26:11 AM",
+   "milliseconds_since_epoch": 1539257171909,
+   "date": "10-11-2018"
+}

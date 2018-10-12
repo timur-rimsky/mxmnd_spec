@@ -1,0 +1,8 @@
+HTTP/1.1 200 OK
+Content-Length: 100
+
+{
+   "time": "11:26:11 AM",
+   "milliseconds_since_epoch": 1539257171909,
+   "date": "10-11-2018"
+}
